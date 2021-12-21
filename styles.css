@@ -1,0 +1,22 @@
+body{padding: 2em;
+    background-color: #FFC5B4;
+    margin: 100px;
+    }
+h1,h2,h3{color: #B03308;
+         text-align: center;
+         font-family: 'Berkshire Swash', cursive;}
+p{font-family: 'Gloria Hallelujah', cursive;
+  font-weight: normal;
+  font-size: 20px;
+  color: #B03308;
+  width:800px;}
+a {color: #F43400;
+   text-decoration: none;
+   }
+/*The next rule centers and spaces the media*/
+img, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(0);}
